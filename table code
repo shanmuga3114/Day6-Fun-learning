@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <title>
+            Day6
+        </title>
+
+    </head>
+    <body>
+       <table border="3">
+           <tr>
+               <th rowspan="2">day</th>
+               <th colspan="11">Time</th>
+           </tr>
+           <tr>
+            
+               <th>9.00-9.45</th>
+               <th>9.00-9.45</th>
+               <th rowspan="7">break</th>
+               <th>9.00-9.45</th>
+               <th>9.00-9.45</th>
+               <th rowspan="7">break</th>
+               <th>9.00-9.45</th>
+               <th>9.00-9.45</th>
+               <th rowspan="7">break</th>
+               <th>9.00-9.45</th>
+               <th>9.00-9.45</td>
+
+           </tr>
+           <tr>
+               <th>Monday</th>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+
+           </tr>
+           <tr>
+               <th>Tuesday</th>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+
+           </tr>
+           <tr>
+            <th>Wednesday</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+           </tr>
+           <tr>
+               <th>Thrusday</th>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+
+           </tr>
+           <tr>
+               <th>Friday</th>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+
+           </tr>
+           <tr>
+          <th>Saturday</th>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+
+
+           </tr>
+
+       </table>
+<br>
+       <form>
+           <p>
+               username:<br>
+          <input type="text" name="Username" placeholder="Enter ur name" size="4" maxlength="5">
+          </p>
+          password:<br>
+           
+           <p><input type="password" name="Password" placeholder="Enter the password">
+            </p>
+            <p><input type="submit" name="login-button" name="login-button" value="end"></p>
+           
+       </form>
+
+
+    </body>
+</html>
