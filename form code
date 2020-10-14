@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>
+            Login page
+        </title>
+
+    </head>
+    <body>
+      
+            <h1>Login</h1>
+            <form>
+            <p>
+                <input type="text"  maxlength="10" placeholder="username">
+            </p>
+            <p>
+            <input type="password" maxlength="8" placeholder="password">
+            </p>
+
+            <p>
+                <input type="submit" value="send">
+            </p>
+
+            
+        </form>
+      
+    </body>
+</html>
